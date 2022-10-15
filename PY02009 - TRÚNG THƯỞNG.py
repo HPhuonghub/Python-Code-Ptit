@@ -1,3 +1,4 @@
+
 for i in range(int(input())):
     m = {}
     for i in range(int(input())):
