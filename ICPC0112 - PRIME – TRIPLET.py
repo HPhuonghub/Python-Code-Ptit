@@ -1,3 +1,6 @@
+a = [0] * 1000001
+
+
 def sangnt():
     a[0] = a[1] = 1
     for i in range(2, 1000):
